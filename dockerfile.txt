@@ -1,6 +1,7 @@
 # ------ Commands --------------------------------------------------------------------------
 # 1. To build the image: docker build -f .dockerignore -t repository:versionTag .
 # 2. To run the container: docker run -d --name centos7 --privileged repository:versionTag
+# 3. Its the updated one 
 # ------------------------------------------------------------------------------------------
 
 
